@@ -3,3 +3,4 @@ function hello(str) {
 };
 
 module.exports = hello;
+// estou perdida 
